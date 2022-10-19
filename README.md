@@ -2,7 +2,7 @@
 
 模板内容如下：
 
-{{date.DATA}} 
+{{date.DATA}} 📅
 
 地区：{{region.DATA}} 
 
@@ -10,9 +10,9 @@
 
 气温：{{temp.DATA}} 
 
-风向：{{wind_dir.DATA}} 
+风向：{{wind_dir.DATA}} 💨
 
-今天是我们恋爱的第{{love_day.DATA}}天 
+我们已经相爱{{love_day.DATA}}天啦 🏩
 
 {{birthday1.DATA}} 
 {{birthday2.DATA}}
